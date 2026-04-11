@@ -24,7 +24,7 @@ I focus on log analysis, threat detection, and incident response through real-wo
 ---
 
 ## 📫 How to Reach Me
-- LinkedIn: (Add your LinkedIn profile link here)  
+- LinkedIn: (www.linkedin.com/in/surya-shantan-46161426a)  
 - GitHub: https://github.com/suryashantan  
 
 ---
