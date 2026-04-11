@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Surya 
 
-<!--
-**suryashantan/suryashantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Who am I
+Aspiring SOC Analyst with hands-on experience in SIEM tools like Splunk and ELK.  
+I focus on log analysis, threat detection, and incident response through real-world cybersecurity projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Currently Working On
+- Improving SOC Analyst skills  
+- Practicing SIEM (Splunk & ELK) use cases  
+- Building real-world cybersecurity projects  
+- Preparing for entry-level SOC Analyst roles  
+
+---
+
+## 🛠️ Tools & Technologies
+- SIEM: Splunk, ELK Stack  
+- Networking & Security: Nmap, Wireshark  
+- Offensive Tools: Metasploit, Burp Suite  
+- Scripting Basics: Bash  
+- OS: Kali Linux, Windows  
+
+---
+
+## 📫 How to Reach Me
+- LinkedIn: (Add your LinkedIn profile link here)  
+- GitHub: https://github.com/suryashantan  
+
+---
+
+⭐ Always learning and building in cybersecurity
